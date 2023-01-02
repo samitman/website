@@ -42,8 +42,8 @@
         margin-bottom: 0px;
         padding-top: 0px;
     }
-    #team .hr {
-        margin-top: 20px;
-        margin-bottom: 20px;
+    #team hr {
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
   }
