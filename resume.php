@@ -20,7 +20,7 @@
 </div>		
 
 <!-- resume section -->
-<div id="portfolio" style="padding-bottom: 0px;">
+<div id="download_link" style="padding-bottom: 0px;">
 	<div class="container">
 		<div class="row">
 			<a class="download_link"

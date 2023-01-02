@@ -262,6 +262,12 @@ img {
   padding-top: 0px;
   padding-bottom: 30px;
   }
+#download_link{
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 20px;
+  font-size: 14pt;
+}
 #portfolio h2 {
   padding-bottom: 20px;
 }

@@ -55,4 +55,8 @@
     #resume_picture {
         max-width: 100% !important;
     }
+    #download_link {
+        font-size: 12pt;
+        padding-top: 60px;
+    }
   }
