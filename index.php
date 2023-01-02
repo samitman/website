@@ -26,7 +26,7 @@
 			<div class="col-md-5 col-sm-3"></div>
 			<div class="col-md-7 col-sm-9">
 				<h3>Welcome to</h3>
-				<h1>Samuel Itman's Website!</h1>
+				<h1>Sam Itman's Website!</h1>
 			</div>
 		</div>
 	</div>

@@ -21,6 +21,10 @@
         font-size: 18px;
         bottom: 15px;
     }
+    .divider .divider-wrapper:hover {
+        font-size: 18px;
+        /*does not do anything, just disables a visible hover effect*/
+    }
     #portfolio {
         padding-top: 0px;
         padding-bottom: 0px;
