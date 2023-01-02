@@ -167,10 +167,14 @@ img {
   bottom: 40px;
   transition: all 0.4s ease-in;
 }
-.divider .divider-wrapper:hover {
-  bottom: 60px;
-  cursor: pointer;
+
+@media only screen and (min-width: 768px) {
+  .divider .divider-wrapper:hover {
+    bottom: 60px;
+    cursor: pointer;
+  }
 }
+
 .divider .divider-one {
   background: #a73f90;
 }
