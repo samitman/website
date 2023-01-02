@@ -32,7 +32,7 @@
 </div>	
 
 <div style="text-align:center;">
-	<img src="./images/ItmanResume.jpg" style="max-width: 80%;">
+	<img id="resume_picture" src="./images/ItmanResume.jpg" style="max-width: 80%;">
 </div>
 <br><br>
 
