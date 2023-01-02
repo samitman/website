@@ -46,7 +46,7 @@
          </div>
          
 		 <!-- spacer -->
-         <div class="row mt30">
+         <div class="row mt30" id="sam_bio">
 			<div class="col-md-4 col-sm-4 col-xs-9">
 				<div class="team-wrapper" style="border: none !important;">
 					
