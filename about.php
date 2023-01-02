@@ -34,8 +34,7 @@
 					while working for the federal government under the Cyber Corps Scholarship for Service.
 				</p><br>
 				<p>
-					I am currently wrapping up my final undergraduate semester at NJIT, and will be continuing my 
-					graduate studies in the IT Adminstration and Security program in the Spring semester of 2023!
+					I am currently a graduate student at NJIT pursuing a master's degree in IT Adminstration & Security.
 					Most recently, I worked in a DevOps role for the Cybersecurity and Infrastructure Security Agency, 
 					a component of DHS. In the past, I was a software engineering intern with Optum - United Health 
 					Group, and before that an IT intern with KIPP; the largest charter school organization in the US. 

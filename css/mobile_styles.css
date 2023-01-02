@@ -5,9 +5,16 @@
         background-position-x: 10%;
         background-position-y: -30px;
     }
-    #home h1, h3 {
+    #home h1 {
         line-height: 20px;
         font-size: 30px;
+    }
+    #home h3 {
+        line-height: 20px;
+        font-size: 30px;
+    }
+    #title_container {
+        margin-top: 120px;
     }
     .divider .divider-wrapper {
         padding: 15px 15px 15px 15px;

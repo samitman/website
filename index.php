@@ -21,7 +21,7 @@
 
 <!-- home section -->
 <div id="home">
-	<div class="container">
+	<div class="container" id="title_container">
 		<div class="row">
 			<div class="col-md-5 col-sm-3"></div>
 			<div class="col-md-7 col-sm-9">
