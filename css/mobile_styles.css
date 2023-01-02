@@ -25,7 +25,7 @@
         padding-top: 0px;
         padding-bottom: 30px;
     }
-    #sam_bio {
+    #portfolio .mt30 {
         margin-top: 30px;
         display: flex;
         flex-direction: column;
@@ -41,6 +41,12 @@
     #team .team-wrapper {
         margin-bottom: 0px;
         padding-top: 0px;
+    }
+    #sam_bio {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
     #team hr {
         margin-top: 10px;
