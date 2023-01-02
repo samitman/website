@@ -23,6 +23,7 @@
 <div id="home">
 	<div class="container" id="title_container">
 		<div class="row">
+		<div class="col-md-7 col-sm-9"></div>
 			<div class="col-md-7 col-sm-9">
 				<h1>Welcome to Sam Itman's Website!</h1>
 			</div>
