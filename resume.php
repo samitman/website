@@ -3,6 +3,16 @@
 	include("./partials/scripts.html");
 ?>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FNP6BYN5EV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FNP6BYN5EV');
+</script>
+
 <body>	
 <!-- navigation -->
 	<div class="container">
