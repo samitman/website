@@ -12,7 +12,7 @@
 
 	typewriter
 		.pauseFor(1000)
-		.typeString('<span class="color-scheme-bright">Welcome to Sam Itman\'s Website!</span>')
+		.typeString('<span>Welcome to Sam Itman\'s Website!</span>')
 		.pauseFor(500)
 		.start();
 </script>
@@ -48,9 +48,7 @@
 	<div class="container" id="title_container">
 		<div class="row">
 		<div class="col-md-5 col-sm-3"></div>
-			<div class="col-md-7 col-sm-9">
-				<div id="typewriter-text"></div>
-			</div>
+		<div class="col-md-7 col-sm-9" id="typewriter-text"> </div>
 		</div>
 	</div>
 </div>
