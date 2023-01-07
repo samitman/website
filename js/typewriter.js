@@ -1,6 +1,6 @@
-import Typewriter from 'typewriter-effect';
+const Typewriter = require('typewriter-effect')
 
-var typewriter = new Typewriter('#typewriter-text', {
+const typewriter = new Typewriter('#typewriter-text', {
     loop: false,
     delay: 75,
 });
