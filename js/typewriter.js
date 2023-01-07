@@ -1,4 +1,4 @@
-import Typewriter from 'typewriter-effect'
+import Typewriter from 'typewriter-effect';
 
 var typewriter = new Typewriter('#typewriter-text', {
     loop: false,

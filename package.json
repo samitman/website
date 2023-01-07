@@ -1,7 +1,7 @@
 {
+  "type": "module",
   "dependencies": {
     "typewriter-effect": "^2.19.0",
-    "type": "module"
   }
 }
 
