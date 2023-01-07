@@ -1,4 +1,4 @@
-const Typewriter = require('typewriter-effect')
+const Typewriter = <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
 
 const typewriter = new Typewriter('#typewriter-text', {
     loop: false,
