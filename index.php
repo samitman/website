@@ -46,7 +46,7 @@
 <!-- home section -->
 <div id="home">
 	<div class="container" id="title_container">
-		<div id="typewriter-text"> </div>
+		<div id="typewriter-text"></div>
 	</div>
 </div>
 
