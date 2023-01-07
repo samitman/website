@@ -1,5 +1,6 @@
-const typewriterDom = document.getElementById('typewriter-text');
-const typewriter = new typewriter(typewriterDom, {
+import Typewriter from 'typewriter-effect'
+
+var typewriter = new Typewriter('#typewriter-text', {
     loop: false,
     delay: 75,
 });
