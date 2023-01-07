@@ -2,20 +2,6 @@
 	include("./partials/head_info.html");
 	include("./partials/scripts.html");
 ?>
-<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
-<script>
-	const typewriterDom = document.getElementById('typewriter-text');
-	const typewriter = new Typewriter(typewriterDom, {
-		loop: false,
-		delay: 75,
-	});
-
-	typewriter
-		.pauseFor(1000)
-		.typeString('<span>Welcome to Sam Itman\'s Website!</span>')
-		.pauseFor(500)
-		.start();
-</script>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FNP6BYN5EV"></script>
@@ -46,7 +32,12 @@
 <!-- home section -->
 <div id="home">
 	<div class="container" id="title_container">
-		<div id="typewriter-text"></div>
+		<div class="row">
+		<div class="col-md-5 col-sm-3"></div>
+		<div class="col-md-7 col-sm-9"> 
+			<h1>Welcome to Sam Itman's Website!</h1>
+		</div>
+		</div>
 	</div>
 </div>
 
