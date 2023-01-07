@@ -8,12 +8,8 @@
     #home h1 {
         font-size: 30px;
         text-align: center;
-    }
-    #typewriter-text {
         font-family: "Montserrat", sans-serif;
-        font-size: 30px;
-        color: whitesmoke;
-      }
+    }
     #title_container {
         margin-top: 120px;
     }

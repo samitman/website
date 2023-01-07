@@ -138,15 +138,11 @@ img {
   padding-top: 180px;
   padding-bottom: 100px;
 }
-#typewriter-text {
-  font-family: "Montserrat", sans-serif;
-  font-size: 24pt;
-  color: whitesmoke;
-}
 #home h1,
 #home h3 {
   line-height: 40px;
   font-size: 40px;
+  font-family: "Montserrat", sans-serif;
 }
 
 /* divider section */
