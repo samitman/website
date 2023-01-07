@@ -1,5 +1,5 @@
 const typewriterDom = document.getElementById('typewriter-text');
-const typewriter = new Typewriter(typewriterDom, {
+const typewriter = new typewriter(typewriterDom, {
     loop: false,
     delay: 75,
 });
