@@ -2,6 +2,20 @@
 	include("./partials/head_info.html");
 	include("./partials/scripts.html");
 ?>
+<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+<script>
+	const typewriterDom = document.getElementById('typewriter-text');
+	const typewriter = new Typewriter(typewriterDom, {
+		loop: false,
+		delay: 75,
+	});
+
+	typewriter
+		.pauseFor(1000)
+		.typeString('<span class="color-scheme-bright">Welcome to Sam Itman\'s Website!</span>')
+		.pauseFor(500)
+		.start();
+</script>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FNP6BYN5EV"></script>

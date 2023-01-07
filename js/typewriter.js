@@ -1,6 +1,5 @@
-const Typewriter = <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
-
-const typewriter = new Typewriter('#typewriter-text', {
+const typewriterDom = document.getElementById('typewriter-text');
+const typewriter = new Typewriter(typewriterDom, {
     loop: false,
     delay: 75,
 });
