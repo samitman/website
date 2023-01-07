@@ -36,7 +36,6 @@
 		<div class="col-md-5 col-sm-3"></div>
 			<div class="col-md-7 col-sm-9">
 				<div id="typewriter-text"></div>
-
 			</div>
 		</div>
 	</div>
