@@ -40,7 +40,7 @@
 				<div>
 					<h3>Email</h3>
 					<p>si237@njit.edu (School)</p>
-					<p>sitman100@gmail.com (Personal)</p>
+					<p>samuel.itman@gmail.com (Personal)</p>
 				</div>
 				<div>
 					<h3>LinkedIn</h3>
