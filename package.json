@@ -2,5 +2,8 @@
   "type": "module",
   "devDependencies": {
     "typewriter-effect": "^2.19.0"
+  },
+  "dependencies": {
+    "aws-amplify": "^5.3.3"
   }
 }
