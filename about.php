@@ -41,13 +41,21 @@
 				<p>
 					As a first generation American, I am passionate about serving the country that has provided so 
 					much for my family. I am fortunate to be able to explore my interests and studies in IT security
-					while working for the federal government under the Cyber Corps Scholarship for Service.
+					while working for the federal government as a recipient of the Cyber Corps Scholarship for Service.
 				</p><br>
 				<p>
-					I am currently a graduate student at NJIT pursuing a master's degree in IT Adminstration & Security.
-					Most recently, I worked in a DevOps role for the Cybersecurity and Infrastructure Security Agency, 
-					a component of DHS. In the past, I was a software engineering intern with Optum - United Health 
-					Group, and before that an IT intern with KIPP; the largest charter school organization in the US. 
+					I graduated summa cum laude from NJIT with a master's degree in IT Adminstration & Security and a bachelor's 
+					degree in Information Technology with a minor in Business, earning 4.0 GPAs in each program. Most recently, 
+					I worked as a software development contractor supporting the DOD where I conducted system administration and 
+					cybersecurity duties on mission-critical information systems. 
+				</p><br>
+				<p>	
+					During my studies, I was an IT specialist with the US Space Force, where we supported the digital innovation 
+					and modernization activities of the Space Force's Chief Technology and Innovation Office (CTIO). 
+					I also worked in a DevOps role for the Cybersecurity and Infrastructure Security Agency (CISA) where 
+					I contributed to the development of a large-scale threat intelligence platform. Before working in public 
+					service, I was a software engineer with Optum - United Health Group, where I helped create numerous fullstack
+					applications to modernize business operations. 
 				</p><br>
 				<p>	
 					Thanks for visiting! Read more about this project below and contact me with any questions.
@@ -69,8 +77,7 @@
 					<img src="images/headshot.jpg" class="img-responsive" alt="team img">
 					<h3>Sam Itman</h3>
 					<h4>IT Security Professional</h4>
-					<p>SFS Cyber Corps Scholar at NJIT pursuing an MS in IT Security and Administration.
-						4.0 GPA 
+					<p>MS IT Administration & Security, BS Information Technology, Security+ 
 					</p>
 				</div>
 			</div>
@@ -91,8 +98,8 @@
 	</div>
 	<div class="col-md-6 col-sm-6">
 		<h3>Project Info</h3>
-		<p>This website is hosted on an AWS EC2 Linux instance running an Apache2 web server.</p>
-		<p>Domain name configured through AWS Route 53, and SSL certificate configured through certbot.</p>
+		<p>This website is hosted on an AWS Amplify! But soon to be moved to S3/CloudFront.</p>
+		<p>Domain name registered through AWS Route 53, and SSL certificate configured through certbot.</p>
 		<p>Visit Github link provided on home page for more information!</p>
 	</div>
 	<div class="col-md-6 col-sm-6">
